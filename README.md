@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🌱 I’m currently learning JAVA
+🔭 I’m currently working on JAVA SE 17 Developer (1Z0-829) & Mini projects 
+📫 How to reach me: Mompatitebogo03@gmail.com  , insta :@amogelangshongwe 
 <!--
 **AmogelangShongwe21/AmogelangShongwe21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
